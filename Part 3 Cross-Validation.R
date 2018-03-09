@@ -1,3 +1,6 @@
+# Cross-Validation
+# Xinpeng Liu& Niantong Zhou math 189 project 4
+
 getwd()
 setwd("D:/UCSD COURSE/Math 189 Winter 2018/Case Study 4")
 getwd()
